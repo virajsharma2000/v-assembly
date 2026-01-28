@@ -1,0 +1,1 @@
+all my x86 assembly work here!! I love low level stuff also, so I thought to learn x86 assembly, it gives you more control of hardware than any other programming language, from basics, to medium, to advanced, to hyper advanced work here 
